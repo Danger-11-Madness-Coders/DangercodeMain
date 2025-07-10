@@ -12,8 +12,6 @@
       prob: 1.6
     - id: AnomalySpawn
       prob: 1.8
-    - id: BingleSpawn
-      prob: 1.6
     - id: SlimesSpawn
       prob: 1.8
     - id: SpiderSpawn
@@ -22,8 +20,6 @@
       prob: 1.8
     - id: SnakeSpawn
       prob: 1.9
-    - id: BlobSpawn
-      prob: 1.2
     - id: DragonSpawn
       prob: 1.4
     - id: KingRatMigration
